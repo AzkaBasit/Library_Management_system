@@ -1,0 +1,19 @@
+
+
+		ID NUMBER            :5689
+		FACULTY NAME         :ahmed
+
+		ID NUMBER            :4587
+		FACULTY NAME         :zoha
+
+		ID NUMBER  :65874
+		FACULTY NAME         :
+
+		ID NUMBER  :356258
+		FACULTY NAME         :
+
+		ID NUMBER  :365587
+		FACULTY NAME         :kamran
+
+		ID NUMBER  :8956
+		FACULTY NAME         :azka

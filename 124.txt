@@ -1,0 +1,3 @@
+Book name   : algebra_intro
+Writer name : thomas
+Book Code   : 124
